@@ -2,10 +2,6 @@
 
 Interactive web application for analyzing Karta Polaka (Polish Card) interview reports collected from Telegram channels.
 
-## 🌐 Live Demo
-
-**[View Live Site →](https://username.github.io/karta-polaka-reports-viewer)**
-
 ## ✨ Features
 
 - **🔍 Smart Discovery** - Automatically finds and loads all report files
